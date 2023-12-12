@@ -11,7 +11,7 @@
 <main>
 	<h1>Hello {name}!</h1>
 	<p>{beltColour}belt</p>
-	<button on:click ={handaleClick}> update belt Colour </button>
+	<button on:click ={handaleClick}> update belt Colours </button>
 </main>
 
 <style>
